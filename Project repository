@@ -1,0 +1,9 @@
+calculator-project/
+
+├── calculator.py       # Main Python script
+
+├── requirements.txt    # Dependencies
+
+├── output/             # Screenshots of program output
+│   └── calculator-output.png
+└── report.md           # Project report
